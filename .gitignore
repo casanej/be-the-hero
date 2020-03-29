@@ -1,0 +1,5 @@
+# Ignoring specifics paths
+node_modules/**
+# Ignoring specifics files
+
+# Ignoring specifics extenions
